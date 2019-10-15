@@ -1,6 +1,6 @@
 Summary: osg-notify tool
 Name: osg-notify
-Version: 1.0.0
+Version: 1.0.1
 Release: 1%{?dist}
 Source: topology-%{version}.tar.gz
 License: Apache 2.0
